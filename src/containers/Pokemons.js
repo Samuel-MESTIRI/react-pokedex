@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Filter from "./Filter";
-import PokemonList from "../containers/PokemonList";
+import PokemonList from "./PokemonList";
 import queryString from 'query-string'
 
 class Pokemons extends Component {
