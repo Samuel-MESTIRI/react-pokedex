@@ -1,0 +1,20 @@
+@import './style/filter.scss';
+@import './style/item.scss';
+@import './style/pokemonDetail.scss';
+
+body {
+  background-color: #D50A2C !important;
+}
+
+.circle {
+  background-color: grey;
+  height: 100px;
+  width: 100px;
+  div {
+    margin: 0 10px;
+    height: 70px;
+    width: 70px;
+    top: 38px;
+    left: 29px;
+  }
+}

@@ -1,0 +1,9 @@
+
+.item {
+  border: solid rgb(149, 149, 149) 5px;
+  border-radius: 2px;
+  &:hover {
+    cursor: pointer;
+    filter: brightness(.9);
+  }
+}
